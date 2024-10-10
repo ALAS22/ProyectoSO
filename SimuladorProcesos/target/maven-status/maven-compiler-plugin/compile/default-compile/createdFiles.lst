@@ -1,0 +1,6 @@
+com\mycompany\simuladorprocesos\SimuladorProcesos.class
+com\mycompany\simuladorprocesos\Nodo.class
+com\mycompany\simuladorprocesos\Memoria.class
+com\mycompany\simuladorprocesos\ColaFIFO$1.class
+com\mycompany\simuladorprocesos\ColaFIFO.class
+com\mycompany\simuladorprocesos\Proceso.class
